@@ -1,3 +1,9 @@
+## After calculation, the result should have the same modulus.
+
+### Congruence modulus?
+
+- [974. Subarray Sums Divisible by K](https://leetcode.cn/problems/subarray-sums-divisible-by-k/description/)
+
 ## Can I sort the array?
 
 ### Two pointer?
@@ -15,4 +21,3 @@
 ### Union Set?
 
 - [990. Satisfiability of Equality Equations](https://leetcode.cn/problems/satisfiability-of-equality-equations/description/)
-
