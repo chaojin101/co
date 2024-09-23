@@ -10,9 +10,15 @@
 
 - [2576. Find the Maximum Number of Marked Indices](https://leetcode.cn/problems/find-the-maximum-number-of-marked-indices/description/)
 
-## Do the result have a range? 
+## Check exsitence of an element after calculation?
 
-### Binary search the result? 
+### Hash table? (Set)
+
+- [3083. Existence of a Substring in a String and Its Reverse](https://leetcode.cn/problems/existence-of-a-substring-in-a-string-and-its-reverse/description/)
+
+## Do the result have a range?
+
+### Binary search the result?
 
 - [2576. Find the Maximum Number of Marked Indices](https://leetcode.cn/problems/find-the-maximum-number-of-marked-indices/description/)
 
