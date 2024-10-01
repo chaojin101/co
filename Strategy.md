@@ -6,7 +6,7 @@
 
 ## Can I sort the array?
 
-### Two pointer?
+### Sort, it, and Two pointer?
 
 - [2576. Find the Maximum Number of Marked Indices](https://leetcode.cn/problems/find-the-maximum-number-of-marked-indices/description/)
 
@@ -27,3 +27,9 @@
 ### Union Set?
 
 - [990. Satisfiability of Equality Equations](https://leetcode.cn/problems/satisfiability-of-equality-equations/description/)
+
+## Get the maximum or minimum value in a range?
+
+### heap?
+
+- [K Messed Array Sort](https://github.com/kywbaek/pramp_questions/blob/master/questions/k-messed-array-sort/QUESTION.md)
